@@ -2,8 +2,9 @@
 To build a model to predict if a passenger survived the sinking of the Titanic or not by using provided datasets.
 
 # Running the Code:
-To run the code keep train.csv and test.csv in the same folder as code.py . Run code.py.
-This will print the prediction on the test set as the output and also generates result.csv containing the results.
+- Keep train.csv and test.csv in the same folder as code.py
+- Run code.py 
+- This will print the prediction on the test set as the output and also generates result.csv containing the results.
 
 # Methodology:
 
